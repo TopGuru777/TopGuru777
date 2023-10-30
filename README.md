@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **TopGuru777/TopGuru777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,12 +28,23 @@ Here are some ideas to get you started:
 
 ###
 
+<h2 align="center">Languages</h2>
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,css,sass,html,js,ts,py,swift,kotlin,qt,&perline=5" height="40" />
+</div>
+
+###
+
+###
+
 <h2 align="center">Frameworks and Libraries</h2>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,dotnet&perline=5" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=angular,dotnet&perline=5" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
@@ -46,3 +55,13 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=aws,azure,firebase,cloudflare" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
 </div>
+
+###
+
+<h2 align="center">Services</h2>
+
+###
+
+<h2 align="center">Databases and Other tools</h2>
+
+###
