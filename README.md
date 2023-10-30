@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 ###
 
 <h2 align="center">Languages</h2>
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,cpp,css,sass,html,js,ts,py,swift,kotlin,qt,&perline=5" />
