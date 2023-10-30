@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="center">Experienced Full Stack Web & Mobile Engineer</h1>
+<h1 align="center">Full Stack Web & Mobile Developer</h1>
 
 ###
 
