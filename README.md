@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,css,sass,html,js,ts,py,swift,kotlin,qt,&perline=5" height="40" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,css,sass,html,js,ts,py,swift,kotlin,qt,&perline=5" />
 </div>
 
 ###
