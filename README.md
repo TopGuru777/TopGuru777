@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h2 align="center">Languages</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,css,sass,html,js,ts,py,swift,kotlin,qt,&perline=5" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,css,sass,html,js,ts,php,py,swift,kotlin,qt,&perline=7" />
 </div>
 
 ###
@@ -43,16 +43,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,dotnet&perline=5" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws,azure,firebase,cloudflare" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular,express,dotnet,react,redux,styledcomponents,nextjs,svelte,d3,vue,nuxtjs,nestjs,nodejs,django,jquery,threejs,pytorch,tensorflow&perline=7"/>
 </div>
 
 ###
