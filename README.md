@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h2 align="center">Languages</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,css,sass,html,js,ts,php,py,swift,kotlin,qt,&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,css,sass,html,js,ts,php,py,swift,kotlin,dart,qt,perl&perline=7" />
 </div>
 
 ###
@@ -43,15 +43,39 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,express,dotnet,react,redux,styledcomponents,nextjs,svelte,d3,vue,nuxtjs,nestjs,nodejs,django,jquery,threejs,pytorch,tensorflow&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=angular,express,dotnet,laravel,symfony,react,redux,styledcomponents,nextjs,svelte,webpack,d3,solidjs,vue,nuxtjs,nestjs,nodejs,jest,bootstrap,tailwind,windicss,django,babel,jquery,threejs,svg,pytorch,tensorflow,wordpress&perline=7"/>
 </div>
 
 ###
 
 <h2 align="center">Services</h2>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,firebase,nginx,docker,fastapi,heroku&perline=7" />
+</div>
+
 ###
 
-<h2 align="center">Databases and Other tools</h2>
+<h2 align="center">Databases</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,sqlite,rabbitmq,supabase,scala&perline=7" />
+</div>
+
+###
+
+<h2 align="center">Development Tools</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=atom,idea,postman,vim,visualstudio,vscode,unity&perline=7" />
+</div>
+
+###
+
+<h2 align="center">Collaborate</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,stackoverflow&perline=7" />
+</div>
 
 ###
