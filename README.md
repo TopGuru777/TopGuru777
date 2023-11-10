@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,express,dotnet,laravel,symfony,react,redux,styledcomponents,nextjs,svelte,webpack,d3,solidjs,vue,nuxtjs,nestjs,nodejs,jest,bootstrap,tailwind,windicss,django,babel,jquery,threejs,svg,pytorch,tensorflow,wordpress&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=angular,dotnet,laravel,react,redux,nextjs,d3,solidjs,vue,jest,bootstrap,tailwind,django,babel,jquery,wordpress&perline=7"/>
 </div>
 
 ###
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <h2 align="center">Development Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=atom,idea,postman,vim,visualstudio,vscode,unity&perline=7" />
+  <img src="https://skillicons.dev/icons?i=atom,idea,postman,vim,visualstudio,vscode&perline=7" />
 </div>
 
 ###
