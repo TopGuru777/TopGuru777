@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h2 align="center">Languages</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,css,sass,html,js,ts,php,py,swift,kotlin,dart,qt,perl&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,css,sass,html,js,ts,php,py,swift,kotlin,dart,qt&perline=7" />
 </div>
 
 ###
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,dotnet,laravel,react,redux,nextjs,d3,solidjs,vue,jest,bootstrap,tailwind,django,babel,jquery,wordpress&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=angular,dotnet,react,redux,nextjs,laravel,vue,jest,bootstrap,tailwind,django,babel,jquery&perline=7"/>
 </div>
 
 ###
