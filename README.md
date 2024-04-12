@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="center">Full Stack Developer expertized in React/Next </h1>
+<h1 align="center">Full Stack Developer</h1>
 
 ###
 
