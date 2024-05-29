@@ -19,8 +19,10 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=topguru777&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&count_private=true&order=3" height="200" alt="streak graph"  />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=topguru777&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<!--
+  <img src="https://github-readme-stats.vercel.app/api?username=topguru777&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="topguru777" width="48%"/>
+-->
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=topguru777&row=1&column=6&margin-h=8&theme=algolia&count_private=true&margin-w=10&no-frame=true" alt="profile trophies" />
 <img width=360 src="https://github-readme-streak-stats.herokuapp.com/?user=topguru777&theme=algolia" alt="topguru777" />
