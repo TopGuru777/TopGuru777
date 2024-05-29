@@ -84,8 +84,6 @@ Here are some ideas to get you started:
 
 ###
 
--->
-
 # <h2 align="center">Collaborate</h2>
 
 # <div align="center">
@@ -93,3 +91,5 @@ Here are some ideas to get you started:
 # </div>
 
 ###
+
+-->
