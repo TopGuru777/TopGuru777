@@ -18,6 +18,24 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=topguru777&locale=en&hide_title=false&layout=compact&count_private=true&card_width=320&langs_count=10&theme=synthwave&hide_border=false&order=2&show_icons=true" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=topguru777&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&count_private=true&order=3" height="200" alt="streak graph"  />
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=topguru777&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="topguru777" width="48%"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=topguru777&row=1&column=6&margin-h=8&theme=algolia&count_private=true&margin-w=10&no-frame=true" alt="profile trophies" />
+<img width=360 src="https://github-readme-streak-stats.herokuapp.com/?user=topguru777&theme=algolia" alt="topguru777" />
+<img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=topguru777&hide_title=true&layout=compact&count_private=true&langs_count=8&theme=highcontrast" />
+</p>
+<p align="center">
+  <a href="https://github.com/topguru777?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/topguru777"/></a>
+  <a href="https://github.com/topguru777?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/topguru777?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/topguru777">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=topguru777&style=for-the-badge&logo=GitHub"/></a>
+</p>
+
+
 <!--
 ###
 
@@ -64,22 +82,6 @@ Here are some ideas to get you started:
 # </div>
 
 ###
-
-<img src="https://github-readme-stats.vercel.app/api?username=topguru777&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="topguru777" width="48%"/>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=topguru777&row=1&column=6&margin-h=8&theme=algolia&count_private=true&margin-w=10&no-frame=true" alt="profile trophies" />
-<img width=360 src="https://github-readme-streak-stats.herokuapp.com/?user=topguru777&theme=algolia" alt="topguru777" />
-<img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=topguru777&hide_title=true&layout=compact&count_private=true&langs_count=8&theme=highcontrast" />
-</p>
-<p align="center">
-  <a href="https://github.com/topguru777?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/topguru777"/></a>
-  <a href="https://github.com/topguru777?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/topguru777?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/topguru777">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=topguru777&style=for-the-badge&logo=GitHub"/></a>
-</p>
 
 -->
 
