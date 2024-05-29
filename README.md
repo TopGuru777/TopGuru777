@@ -12,13 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-###
-
-<h1 align="center">Full Stack Developer</h1>
-
-###
-
 <br clear="both">
 
 <div align="center">
